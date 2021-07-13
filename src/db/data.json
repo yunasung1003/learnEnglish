@@ -1,0 +1,45 @@
+{
+    "days":[
+        {"id":1, "day":1},
+        {"id":2, "day":2},
+        {"id":3, "day":3}
+    ],
+    "vocabulary":[
+        {"id":1, 
+        "day":1,
+        "eng":"book",
+        "kor":"책",
+        "isDone": false
+        },
+        {"id":2, 
+        "day":1,
+        "eng":"dog",
+        "kor":"개",
+        "isDone": false
+        },
+        {"id":3, 
+        "day":2,
+        "eng":"cat",
+        "kor":"고양이",
+        "isDone": false
+        },
+        {"id":4, 
+        "day":2,
+        "eng":"water",
+        "kor":"물",
+        "isDone": false
+        },
+        {"id":5, 
+        "day":3,
+        "eng":"pink",
+        "kor":"분홍",
+        "isDone": false
+        },
+        {"id":6, 
+        "day":3,
+        "eng":"pen",
+        "kor":"볼펜",
+        "isDone": false
+            }
+    ]
+}
